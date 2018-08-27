@@ -1,5 +1,5 @@
 # NTPTimeWrapper
-Multi-threaded asynchronous get NTP server time
+Multi-threading asynchronous get NTP server time
 
 There is only one interface, as follows:
 
