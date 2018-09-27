@@ -3,3 +3,8 @@
 ################################################################################
 
 *.opendb
+*.ipch
+*.sqlite
+/.vs/NTPTimeWrapper/v15/Browse.VC.db
+/.vs/NTPTimeWrapper/v15/.suo
+/.vs/ProjectSettings.json

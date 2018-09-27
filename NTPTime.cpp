@@ -106,7 +106,7 @@ DWORD WINAPI  CNTPTime::Thread_GetTime(IN LPVOID Param)
 /************************************************************************/
 // function£ºget time from NTP Server                                    
 // params£ºNone
-// return£ºseconds since 1900-1-1 0:0:0 . 0 is falied
+// return£ºseconds since 1900-1-1 0:0:0 .  0 is falied
 /************************************************************************/
 unsigned long CNTPTime::GetTimeFromServer()
 {  

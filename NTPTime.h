@@ -13,7 +13,7 @@ private:
 	static BOOL          Domain2IpAddress(char *sDomain,char* sIpAddress);
 	static BOOL          IsLocalIP(char *sIP);//Simply prevent building a local NTP server
 private:
-	static char*  m_sNTPServers[6];
+	static char*         m_sNTPServers[6];
 	static unsigned long m_ulTime[6];
 };
 
